@@ -1,2 +1,2 @@
 ## ELFParse
-- pythonÊµÏÖµÄelfÎÄ¼þ½âÎö¹¤¾ß
+- python å®žçŽ°çš„ ELF æ–‡ä»¶è§£æžå·¥å…·
